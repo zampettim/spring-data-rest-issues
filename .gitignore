@@ -9,3 +9,5 @@ buildNumber.properties
 .settings/
 .project
 .classpath
+application.properties
+flyway.properties

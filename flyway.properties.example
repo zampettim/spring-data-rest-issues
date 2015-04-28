@@ -1,0 +1,4 @@
+## Copy this file to flyway.properties and then fill in the necessary information, designated by <something>.
+flyway.user=<username>
+flyway.password=<password>
+flyway.url=jdbc:postgresql://<hostname>:<port>/<database>

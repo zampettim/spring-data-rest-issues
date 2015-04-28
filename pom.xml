@@ -60,8 +60,6 @@
 				<artifactId>flyway-maven-plugin</artifactId>
 				<version>3.2.1</version>
 				<configuration>
-					<!-- Default URL for local dev and testing -->
-					<url>jdbc:postgresql://localhost/products</url>
 					<schemas>
 						<schema>public</schema>
 					</schemas>

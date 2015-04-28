@@ -8,7 +8,7 @@
 	</parent>
 	<groupId>com.example.sdr</groupId>
 	<artifactId>sdr-issues</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<description>Example project to highlight issues with Spring Data Rest</description>
 
 	<dependencies>
